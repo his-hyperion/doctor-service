@@ -1,0 +1,7 @@
+his\hyperion\doctors\controllers\DoctorController.class
+his\hyperion\doctors\models\Doctor.class
+his\hyperion\doctors\models\Patient.class
+his\hyperion\doctors\repositories\DoctorRepository.class
+his\hyperion\doctors\repositories\PatientRepository.class
+his\hyperion\doctors\Application.class
+his\hyperion\doctors\controllers\PatientController.class
